@@ -1,4 +1,4 @@
-# Statistical-Signal-Processing-
+# Statistical-Signal-Processing
 MATLAB exercises for solving Signal's problems.
 The file is diveded in two Lab.
 
@@ -15,7 +15,7 @@ PART2: Estimation Theory
 - Assignment 6 - Colored Noise
 
 **Lab2.pdf**:<br>
->br>
+<br>
 Spectral analysis and Detection theory
 - Assignment 1: Noise and spectral estimation
 - Assignment 2: Vowel and formants analysis - Non-parametric spectral estimation
